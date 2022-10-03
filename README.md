@@ -9,3 +9,5 @@ Next lines correspond to jobs' descriptions, one line per job,. Each line consis
 {#MachineNumber #DurationInConfig-1 #DurationInConfig-2 ... #DurationInConfig-nbconfigs}
 
 Final lines correspond to the Reconfiguration Matrix 
+
+Note that files _1 to _5 are designed as Russian dolls (Data_1_1_1 can be recovered from Data_1_1_5 by considering only 1 configuration)
