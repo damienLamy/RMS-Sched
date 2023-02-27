@@ -10,4 +10,4 @@ Next lines correspond to jobs' descriptions, one line per job,. Each line consis
 
 Final lines correspond to the Reconfiguration Matrix 
 
-Note that files _1 to _5 are designed as Russian dolls (Data_1_1_1 can be recovered from Data_1_1_5 by considering only 1 configuration)
+Note that files _1 to _5 are designed as Russian dolls (RJSSP_S_1_1 can be recovered from RJSSP_S_1_5 by considering only 1 configuration)
